@@ -1,7 +1,7 @@
 Bootstrap for Hatohol
 =====================
 
-The files in this repository are for build bootstrap RPM packages for
+The files in this repository are for building bootstrap RPM packages for
 Hatohol web UI client.
 
 How to make RPM files
